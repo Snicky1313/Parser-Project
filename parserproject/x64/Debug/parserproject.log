@@ -1,0 +1,8 @@
+﻿  prog.cpp
+C:\Users\nbchi\OneDrive\Desktop\parser\parserproject\symtab.h(65,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'prog.cpp')
+  
+C:\Users\nbchi\OneDrive\Desktop\parser\parserproject\symtab.h(71,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'prog.cpp')
+  
+  parserproject.vcxproj -> C:\Users\nbchi\OneDrive\Desktop\parser\parserproject\x64\Debug\parserproject.exe
